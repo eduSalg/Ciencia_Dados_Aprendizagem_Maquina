@@ -4,7 +4,7 @@
 
 - Estudante ou equipe: **Eduardo Salgueiro**
 - Turma: **Sistemas de Informação - 2026.2**
-- Data de realização: **02/10/2026**
+- Data de realização: **29/10/2026**
 - Integrantes e contribuições (se em equipe): **Eduardo Salgueiro**
 
 ## Percurso escolhido
@@ -21,8 +21,8 @@ Use o [notebook de apoio](notebooks/laboratorio.ipynb) ou o [CSV sintético](dad
 | Ambiente e data | Colab 29/10 |
 | Versões das ferramentas/bibliotecas | **Scikit-Learn (versão atualizada no Colab), Pandas** |
 | Semente aleatória | **random_state=42** |
-| Caminho do notebook executado ou fluxo Orange | https://colab.research.google.com/drive/1py4TqeY9Tb9KXaMc1bYg6-0sbMFb3WRb#scrollTo=50be2874 |
-| Origem dos dados e condição sintética | **CSV educacional com 600 registros sintéticos (gerados artificialmente, sem validade empírica real)** |
+| Caminho do notebook executado ou fluxo Orange. | https://colab.research.google.com/drive/1py4TqeY9Tb9KXaMc1bYg6-0sbMFb3WRb#scrollTo=50be2874 |
+| Origem dos dados e condição sintética. | **CSV educacional com 600 registros sintéticos (gerados artificialmente, sem validade empírica real)** |
 
 ## 2. Problema e preparação
 

@@ -9,7 +9,7 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 
 - Estudante ou equipe: **Eduardo Salgueiro**
 - Turma: **Sistemas de Informação - 2026.2**
-- Data de realização: **02/10/2026**
+- Data de realização: **29/10/2026**
 - Integrantes e contribuições (se em equipe): **Eduardo Salgueiro**
 
 ## Situação-problema
@@ -62,6 +62,6 @@ Uma biblioteca universitária enfrenta filas em horários específicos e baixa u
 
 **Feedback recebido e melhoria realizada:** No debate inicial, cogitou-se usar o histórico de livros de cada aluno para ver quem usava os serviços. O feedback apontou risco de violação de privacidade (discriminação de leitura). A melhoria foi agregar os dados de empréstimo apenas por "área do conhecimento" (ex: TI, Direito) e faixa horária, garantindo o anonimato total da unidade de análise.
 
-## Entrega
+## Entrega.
 
 Canvas preenchido e síntese para apresentação de dois minutos. Avaliar coerência da pergunta, dados, abordagem, responsabilidade e colaboração. [Voltar ao início](README.md).
